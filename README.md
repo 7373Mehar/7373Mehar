@@ -14,7 +14,7 @@
 
 💬 Ask me about **Angular Dot Net Core, MySQL... or anything [here](meharmutreja777@gmail.com)**
 
-⚡ Fun fact **Writing code is only 30% of software engineering and the rest is debugging :'(**
+⚡ Fun fact: **Writing code is only 30% of software engineering and the rest is debugging :'(**
 
  </div>
  

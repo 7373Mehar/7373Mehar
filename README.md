@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Kubernetes, Next.js**
 
-💬 Ask me about **Angular Dot Net Core, MySQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Angular Dot Net Core, MySQL... or anything [here](meharmutreja777@gmail.com)**
 
 ⚡ Fun fact **Writing code is only 30% of software engineering and the rest is debugging :'(**
 
